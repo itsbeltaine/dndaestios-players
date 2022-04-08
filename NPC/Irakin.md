@@ -1,1 +1,1 @@
-Old [[halfling]] cleaning the [[Manoir Von Dernus]].
+Old [[halfling]] cleaning the [[Manoir van Darnus]].

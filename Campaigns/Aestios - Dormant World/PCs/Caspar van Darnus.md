@@ -2,7 +2,7 @@
 aliases: []
 tags: []
 ---
-# Caspar Von Dernus
+# Caspar van Darnus
 ## Description
 
 ---
