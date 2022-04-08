@@ -1,2 +1,2 @@
-Location: [[Eventite]]
+Location: [[Haventithe]]
 [[Erikaar]]'s old teachers. 

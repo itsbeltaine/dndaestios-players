@@ -5,7 +5,7 @@ C'est une fille batarde de [[El'ahziel]]. Elle n'était pas voulu et a été cur
 [[Alufine]] takes everything in notes.
 
 Aleesia dit qu'elle n'a plus a être seul. 
-"Get use to us, we're not going anywhere!"
+"Get used to us, we're not going anywhere!"
 
 Maeve asks to go and [[Alufine]] needs to go back to work.
 

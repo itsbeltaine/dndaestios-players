@@ -3,6 +3,6 @@ aliases: []
 tags: []
 ---
 Location: [[Brathia]]
-Résident: [[Kevin Van Dalmus]], [[Party]]
-Maison à la famille [[Van Dalmus]]
+Résident: [[Kayvun Von Dernus]], [[Party]]
+Maison à la famille [[Von Dernus]]
 Presque vide, Caspar à pris des employées pour restore et nettoyer la maison.
