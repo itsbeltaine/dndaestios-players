@@ -1,0 +1,1 @@
+Where we can find [[Lorvroth]] suggested by a gard after we defeated the moving armor in [[Session 8 - 2022-03-25]]. 

@@ -1,0 +1,271 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1648245501276,
+      "markers": [
+        {
+          "id": "ID_8bc89a38292a",
+          "type": "default",
+          "loc": [
+            -0.720367431640625,
+            1.029296875
+          ],
+          "link": "Lanua'ri",
+          "layer": "%5B%5BAestiosMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b0a89ea6888",
+          "type": "default",
+          "loc": [
+            -0.6599884033203125,
+            0.595703125
+          ],
+          "link": "Brathia",
+          "layer": "%5B%5BAestiosMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Aestios Continent/Aestios Continent.md"
+      ]
+    },
+    {
+      "id": "brathia-main-city",
+      "lastAccessed": 1648257330928,
+      "markers": [
+        {
+          "id": "ID_5988197959db",
+          "type": "default",
+          "loc": [
+            -0.33544921875,
+            0.8671875
+          ],
+          "link": "Eventite",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09eb3b294b08",
+          "type": "default",
+          "loc": [
+            -0.8446044921875,
+            0.9970703125
+          ],
+          "link": "Vanguard bastion",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_881969d9d838",
+          "type": "default",
+          "loc": [
+            -0.65576171875,
+            0.69140625
+          ],
+          "link": "Trinity temple",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58ea593afaeb",
+          "type": "default",
+          "loc": [
+            -1.173583984375,
+            1.2890625
+          ],
+          "link": "Blaber manoir",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb9a6b1b7b2a",
+          "type": "default",
+          "loc": [
+            -1.525146484375,
+            1.66796875
+          ],
+          "link": "Manoir Van Dalmus",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b78498ada29",
+          "type": "default",
+          "loc": [
+            -1.851318359375,
+            0.634765625
+          ],
+          "link": "Little thinker",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_698aeab868a8",
+          "type": "default",
+          "loc": [
+            -1.37841796875,
+            0.1015625
+          ],
+          "link": "Veel bar",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bd8aa4b5938",
+          "type": "default",
+          "loc": [
+            -0.90185546875,
+            0.83203125
+          ],
+          "link": "Lucky books",
+          "layer": "%5B%5BBrathia_Main.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Aestios Continent/Brathian Empire/Brathia/Brathia.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.0.1",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 8,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "600px",
+    "image": "[[Brathia_MoonlessQuarters.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Brathia_MoonlessQuarters.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 10,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
