@@ -10,13 +10,21 @@ Extra information
 
 Aleesia of House Crystal Leaf
 
+## Ongoing plot threads and objectives
+
+##### Major
+* 
+
+##### Minor
+* 
+
 # Elf Wizard (Kalashtar mechanically)
 
 Clan name in elfic is pronounced Saelinifethkhracharmkaender which is hard to pronounce and remember for those who do not speak elfic.
 
 Has a Dream spirit which shares half of her mind.
 
-Spirit name: Azure
+Spirit name: [[Azure]]
 
 Spirit nickname: The Silent Necromancer.
 
