@@ -12,9 +12,12 @@
 - [ ] Nightmare de [[Erikaar]]
 - [x] See [[Aleesia]]'s parent's
 - [ ] Blue flames (See Genasi in [[White Plains]])
-- [ ] Constellation a l'envers
-- [ ] Become rich
 - [ ] Shadow dragon scale
 - [x] Manque d'araignées Résolu, on les as mangés
 - [ ] Investiguer les break-ins chez les [[Undying Bear]]'s
 - [ ] Apprendre plus d,information sur le culte de 
+- [ ] Constellation a l'envers ([[Maruk]])
+- [ ] Become rich ([[Whiskers]])
+- [ ] 
+
+
