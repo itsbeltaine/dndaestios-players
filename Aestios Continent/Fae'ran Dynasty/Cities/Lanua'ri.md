@@ -1,0 +1,1 @@
+Veux dire "Capital" en elfique.

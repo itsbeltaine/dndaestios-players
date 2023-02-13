@@ -1,1 +1,1 @@
-Dieu Elfique. Eternal Hunter. 
+Dieu Elfique. Eternal Hunter. God of hunt and travel.

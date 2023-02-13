@@ -1,0 +1,1 @@
+Les conservateurs du groupe, ils sont fort avec les traditions et par the book. Ils sont très traditionnel. 
