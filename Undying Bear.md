@@ -1,0 +1,1 @@
+Current rulers house of [[Lanua'ri]].

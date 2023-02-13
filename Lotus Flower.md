@@ -1,0 +1,1 @@
+Groupe réservé mais terre à terre mais très spirituel. [[Bi'rith]] et [[Lu'marin]] nous invite a un bal. [[Lu'marin]] est un d'une autre famille ([[Hollow Thorns]]) mais marié dans la dernière famile.
